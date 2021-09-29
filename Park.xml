@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Park>
+            <Plant>
+                <plant type="дерево"/>
+		<plant name="берёза"/>
+		<plant coordx=5/>
+		<plant coordY=3/>
+		<plant height=20/>
+            </Plant>
+            <Plant>
+                <plant type="дерево"/>
+		<plant name="ель"/>
+		<plant coordx=15/>
+		<plant coordY=8/>
+		<plant height=40/>
+            </Plant>
+            <Plant>
+                <plant type="куст"/>
+		<plant name="лещина"/>
+		<plant coordx=30/>
+		<plant coordY=20/>
+		<plant height=3/>
+            </Plant>
+            <Plant>
+                <plant type="куст"/>
+		<plant name="барбарис"/>
+		<plant coordx=18/>
+		<plant coordY=7/>
+		<plant height=2/>
+            </Plant>
+            <Plant>
+                <plant type="дерево"/>
+		<plant name="сосна"/>
+		<plant coordx=7/>
+		<plant coordY=10/>
+		<plant height=30/>
+            </Plant>
+</Park>
